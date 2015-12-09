@@ -1,3 +1,3 @@
-# ASYAKIRTAS-YE.COM
+# ASYAKIRTASIYE.COM
 Asya kırtasiye.com Tanıtım sitesi satış sitesine çevirilmesi.
-www.asyatoptankırtasiye.com
+www.asyatoptankirtasiye.com
