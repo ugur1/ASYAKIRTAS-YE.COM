@@ -112,7 +112,14 @@
               border-radius:5px;
               float:left;
           }
-           .kutu1 {
+           .kutu1,
+           .kutu2,
+           .kutu3,
+           .kutu4,
+           .kutu5,
+           .kutu6,
+           .kutu7,
+           .kutu8{
               width:70px;
               height:100px;
               margin:40px;
@@ -122,88 +129,7 @@
               border-radius:5px;
               float:left;
           }
-           .kutu2 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
-             .kutu3 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
-         .kutu4 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-
-
-          }
-           .kutu5 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
-         .kutu6 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
-          .kutu7{
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
-           .kutu8 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
-             .kutu9 {
-              width:70px;
-              height:100px;
-              margin:40px;
-              padding:40px;
-              border:1px solid black;
-              background-color:black;
-              border-radius:5px;
-              float:left;
-          }
+           
              
     
       
