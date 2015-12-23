@@ -53,13 +53,22 @@
                 float:left;
                 margin-top:20px;
             
-
-
+  
             }
                 .menu a:hover {
                     color: darkred;
                     background:none;
                     border:1px solid darkred;
+                    -webkit-transition:  background-color .3s ease-in-out,color .3s ease-in-out;
+                    -moz-transition:  background-color .3s ease-in-out,color .3s ease-in-out;
+                    -o-transition: background-color .3s ease-in-out,color .3s ease-in-out;
+                    transition:  background-color .3s ease-in-out,color .3s ease-in-out;
+                    -webkit-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+                    -moz-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+                    -o-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+                    box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+                    
+
                 }
             .menu img {
                 float:left;
@@ -236,8 +245,16 @@ html[xmlns] .slides {display: block;}
         }
 
     .orta a:hover {
-       text-decoration:inherit;
-       background-color:rgba(255,255,255,0.2);
+       -webkit-transition: width .3s ease-in-out, background-color .3s ease-in-out,color .3s ease-in-out;
+       -moz-transition: width .3s ease-in-out, background-color .3s ease-in-out,color .3s ease-in-out;
+       -o-transition: width .3s ease-in-out, background-color .3s ease-in-out,color .3s ease-in-out;
+        transition: width .3s ease-in-out, background-color .3s ease-in-out, color .3s ease-in-out;
+       -webkit-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+       -moz-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+       -o-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+       box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+       
+
      }
         
         </style> 
